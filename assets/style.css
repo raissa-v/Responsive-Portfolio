@@ -1,0 +1,61 @@
+.stuff {
+    width: 900px;
+    Margin: 10px;
+    padding: 0px;
+
+
+}
+.photo {
+    width: 200px;
+    Margin: 10px;
+
+
+}
+.content {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3px;
+    margin: 10px;
+
+    
+
+}
+.container {
+    background-color: white
+
+}
+.title-name {
+    background: #4aaaa5;
+    color: white;
+
+}
+.header-wrap { 
+    background: #4aaaa5;
+    margin: 20px;
+
+
+
+}
+
+.nav {
+    float: right; 
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+}
+
+.me {
+    float:right;
+    padding: 5px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+.title {
+    background : #4aaaa5;
+    padding: 5px;
+    margin: 5px;
+
+    
+}
